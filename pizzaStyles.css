@@ -1,0 +1,41 @@
+body {
+  background-color: skyblue;
+  font-family: sans-serif;
+}
+
+h1 {
+  border-color: brown;
+  border-style: solid;
+  color: navy;
+  font-family: cursive;
+  text-align: center;
+}
+
+h2 {
+  color: navy;
+  font-family: serif;
+}
+
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.meat {
+  color: red;
+}
+
+.veggie {
+  color: green;
+}
+
+.cheese {
+  color: darkorange;
+}
+
+#motto {
+  font-family: cursive;
+  font-style: italic;
+  text-align: center;
+}
